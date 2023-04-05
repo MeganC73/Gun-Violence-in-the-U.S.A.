@@ -1,7 +1,7 @@
 ![Gun](https://user-images.githubusercontent.com/126289708/229972884-7363f124-76f6-4a63-9d7a-4975bcc746e6.jpg)
 
 # Gun Violence in the U.S.A. 
-Use Python to analyze variables that contribute to higher gun violence crime in the U.S.  
+Use Python to analyze variables that contribute to higher gun violence crime in the U.S. and create a data story in Tableau to highlight the findings.  
 
 ## Key Questions and Objectives 
 - Do some regions of the U.S. have more gun violence than others? 
